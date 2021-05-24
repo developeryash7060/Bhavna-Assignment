@@ -1,0 +1,12 @@
+C:\Users\ygupta\source\repos\AssignmentTwo-BL\AssignmentTwo-BL\bin\Debug\net5.0\AssignmentTwo-BL.deps.json
+C:\Users\ygupta\source\repos\AssignmentTwo-BL\AssignmentTwo-BL\bin\Debug\net5.0\AssignmentTwo-BL.dll
+C:\Users\ygupta\source\repos\AssignmentTwo-BL\AssignmentTwo-BL\bin\Debug\net5.0\ref\AssignmentTwo-BL.dll
+C:\Users\ygupta\source\repos\AssignmentTwo-BL\AssignmentTwo-BL\bin\Debug\net5.0\AssignmentTwo-BL.pdb
+C:\Users\ygupta\source\repos\AssignmentTwo-BL\AssignmentTwo-BL\obj\Debug\net5.0\AssignmentTwo-BL.csprojAssemblyReference.cache
+C:\Users\ygupta\source\repos\AssignmentTwo-BL\AssignmentTwo-BL\obj\Debug\net5.0\AssignmentTwo-BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ygupta\source\repos\AssignmentTwo-BL\AssignmentTwo-BL\obj\Debug\net5.0\AssignmentTwo-BL.AssemblyInfoInputs.cache
+C:\Users\ygupta\source\repos\AssignmentTwo-BL\AssignmentTwo-BL\obj\Debug\net5.0\AssignmentTwo-BL.AssemblyInfo.cs
+C:\Users\ygupta\source\repos\AssignmentTwo-BL\AssignmentTwo-BL\obj\Debug\net5.0\AssignmentTwo-BL.csproj.CoreCompileInputs.cache
+C:\Users\ygupta\source\repos\AssignmentTwo-BL\AssignmentTwo-BL\obj\Debug\net5.0\AssignmentTwo-BL.dll
+C:\Users\ygupta\source\repos\AssignmentTwo-BL\AssignmentTwo-BL\obj\Debug\net5.0\ref\AssignmentTwo-BL.dll
+C:\Users\ygupta\source\repos\AssignmentTwo-BL\AssignmentTwo-BL\obj\Debug\net5.0\AssignmentTwo-BL.pdb
